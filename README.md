@@ -26,8 +26,6 @@
 
 </div><br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvatet&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvatet&show_icons=true&theme=shadow_blue)
 
 
@@ -44,6 +42,13 @@
 
 
 </div><br/>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvatet&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 # Sobre Mim
 
