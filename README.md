@@ -21,7 +21,6 @@
    <img align="center" alt="react" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 
-![silvatet GitHub stats](https://github-readme-stats.vercel.app/api?username=silvatet&show_icons=true&theme=radical)
 
 
 
