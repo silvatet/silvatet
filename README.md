@@ -28,7 +28,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvatet&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvatet&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvatet&show_icons=true&theme=shadow_blue)
 
 
 ## Linguagens de programação que eu mais uso no meu dia
