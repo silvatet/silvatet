@@ -42,35 +42,13 @@
 
 </div><br/>
 
+# Sobre Mim
+
+Sou um programador **full stack** apaixonado por programação. Com habilidades tanto no desenvolvimento front-end quanto no back-end, adoro criar soluções completas e funcionais. Meu amor pela programação me impulsiona a estar sempre aprendendo novas tecnologias e melhorando minhas habilidades. Estou constantemente em busca de desafios que me permitam crescer e contribuir para projetos inovadores.
 
 
 
 
-
-name: Generate Datas
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:silvatet
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ##EMAIL DE CONTATO: teuzmachado5@gmail.com
 
