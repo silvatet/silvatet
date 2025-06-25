@@ -76,4 +76,9 @@ Experiência interativa e educativa com:
 ### 👨‍⚕️ Projeto Afya – Plataforma Inteligente
 - Cadastro com validação automática de CRM  
 - Recomendação de cursos com base na carreira  
-- Interface responsiva e ideal para eventos e web  
+- Interface responsiva e ideal para eventos e web
+
+### 🍰 Projeto maracake 2025
+- Cadastro com pagina web
+- Bot de aplicação de mascara para fotos
+- envio automatico de fotos 
