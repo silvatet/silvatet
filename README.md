@@ -42,7 +42,8 @@
 
 <div align="center">
   
-![snake gif](https://github.com/silvatet/silvatet/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/silvatet/silvatet/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
