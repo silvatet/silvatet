@@ -2,9 +2,9 @@
 
 > Hey There!, I am **Mateus João** 🖐️
 
-[Google Me](https://www.google.com/search?q=Mateus+João)
 
-[ I am a full stack developer from Brazil 🇧🇷 ]
+
+ I am a full stack developer from Brazil 🇧🇷 
 
 ---
 
