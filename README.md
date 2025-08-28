@@ -70,3 +70,13 @@ Sou um programador **full stack** apaixonado por tecnologia. Domino tanto o fron
 - Cadastro com página web
 - Bot de aplicação de máscara para fotos
 - Envio automático de fotos
+
+### 📖 Projeto Ciee 2025
+- Cadastro com página web
+- Bot de aplicação de máscara para fotos
+- Envio automático de fotos
+
+### 👨‍⚕️ Projeto Afya 2 – Plataforma Inteligente
+- Cadastro com validação automática de CRM
+- Recomendação de cursos com base na carreira
+- game com arduino 
