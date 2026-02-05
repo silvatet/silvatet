@@ -75,3 +75,9 @@ Sou um programador **full stack** apaixonado por tecnologia. Domino tanto o fron
 - Cadastro com validação automática de CRM
 - Recomendação de cursos com base na carreira
 - game com arduino 
+
+
+### ★ Ensaio anitta 
+- Fotos automaticas via script
+- roleta online de premios 
+- Compartilhamento de foto via qrcoded 
