@@ -81,3 +81,8 @@ Sou um programador **full stack** apaixonado por tecnologia. Domino tanto o fron
 - Fotos automaticas via script
 - roleta online de premios 
 - Compartilhamento de foto via qrcoded 
+
+### 👋 Sistema de captura das mãos
+- captura das mão e gestos
+- controle do destop através das mãos  
+- reconhecimento de gestos para atividades especificas como passar musicas e etc...
