@@ -76,7 +76,6 @@ Sou um programador **full stack** apaixonado por tecnologia. Domino tanto o fron
 - Recomendação de cursos com base na carreira
 - game com arduino 
 
-
 ### ★ Ensaio anitta 
 - Fotos automaticas via script
 - roleta online de premios 
@@ -86,3 +85,14 @@ Sou um programador **full stack** apaixonado por tecnologia. Domino tanto o fron
 - captura das mão e gestos
 - controle do destop através das mãos  
 - reconhecimento de gestos para atividades especificas como passar musicas e etc...
+
+### 👋 claude + google ads
+- analista de mercado
+- analize de concorrentes  
+- montagem de planos de marketing para o google ads
+
+### 👋ia pic pro
+- captura de fotos via websockets
+- gereção de ia nanobanana 2 
+- compartilhamento de imagem via impressão e qr code
+
