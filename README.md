@@ -86,32 +86,32 @@ Sou um programador **full stack** apaixonado por tecnologia. Domino tanto o fron
 - controle do destop através das mãos  
 - reconhecimento de gestos para atividades especificas como passar musicas e etc...
 
-### 👋 claude + google ads
+### ✴️ claude + google ads
 - analista de mercado
 - analize de concorrentes  
 - montagem de planos de marketing para o google ads
 
-### 👋ia pic pro
+### 🤖 ia pic pro
 - captura de fotos via websockets
 - gereção de ia nanobanana 2 
 - compartilhamento de imagem via impressão e qr code
 - 
-### HSBC MOSAICO
+### 🏦 HSBC MOSAICO
 - captura de fotos via websockets
 - Integração resolume
 - compartilhamento reconhecimento facial 
 
-### ROCK RIO - PIRACANJUBA - VIDEO GEM
+### 🎸 ROCK RIO - PIRACANJUBA - VIDEO GEM
 - captura de fotos via websockets
 - gereção de ia nanobanana 2 
 - compartilhamento de imagem via impressão e qr code
 
-- ### ROCK RIO - PIRACANJUBA - PICLOOP
+- ### 🎸 ROCK RIO - PIRACANJUBA - PICLOOP
 - captura de fotos via websockets
 - leitura de movimento via sensores 
 - compartilhamento de imagem via impressão e qr code
 
-### ROCK RIO - SCHWEPPES - FOTO TOTEM + PAINEL DE LED   
+### 🎸 ROCK RIO - SCHWEPPES - FOTO TOTEM + PAINEL DE LED   
 - captura de fotos via websockets
 - Compartilhamento via reconhecimento facial 
 - compartilhamento de imagem via impressão e qr code
