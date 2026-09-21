@@ -95,4 +95,26 @@ Sou um programador **full stack** apaixonado por tecnologia. Domino tanto o fron
 - captura de fotos via websockets
 - gereção de ia nanobanana 2 
 - compartilhamento de imagem via impressão e qr code
+- 
+### HSBC MOSAICO
+- captura de fotos via websockets
+- Integração resolume
+- compartilhamento reconhecimento facial 
+
+### ROCK RIO - PIRACANJUBA - VIDEO GEM
+- captura de fotos via websockets
+- gereção de ia nanobanana 2 
+- compartilhamento de imagem via impressão e qr code
+
+- ### ROCK RIO - PIRACANJUBA - PICLOOP
+- captura de fotos via websockets
+- leitura de movimento via sensores 
+- compartilhamento de imagem via impressão e qr code
+
+### ROCK RIO - SCHWEPPES - FOTO TOTEM + PAINEL DE LED   
+- captura de fotos via websockets
+- Compartilhamento via reconhecimento facial 
+- compartilhamento de imagem via impressão e qr code
+- integração com resolume 
+
 
